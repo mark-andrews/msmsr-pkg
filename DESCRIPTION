@@ -1,0 +1,32 @@
+Package: msmsr
+Type: Package
+Title: Materials for Model Selection and Model Simplification Course
+Version: 0.1.0
+Authors@R: person("First", "Last", email = "your.email@example.com",
+                  role = c("aut", "cre"))
+Description: Provides datasets, functions, and utilities for the two-day workshop
+    on Model Selection and Model Simplification for empirical researchers.
+    Includes data accessor functions for course datasets and helper functions
+    for model comparison and evaluation.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
+Imports:
+    AmesHousing,
+    dplyr,
+    purrr,
+    tibble,
+    broom,
+    patchwork,
+    lme4,
+    MuMIn,
+    glmnet,
+    car,
+    performance
+Suggests:
+    knitr,
+    rmarkdown,
+    testthat
+VignetteBuilder: knitr
