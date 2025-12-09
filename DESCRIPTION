@@ -2,13 +2,13 @@ Package: msmsr
 Type: Package
 Title: Materials for Model Selection and Model Simplification Course
 Version: 0.1.0
-Authors@R: person("First", "Last", email = "your.email@example.com",
+Authors@R: person("Mark", "Andrews", email = "mark.andrews@ntu.ac.uk",
                   role = c("aut", "cre"))
 Description: Provides datasets, functions, and utilities for the two-day workshop
     on Model Selection and Model Simplification for empirical researchers.
     Includes data accessor functions for course datasets and helper functions
     for model comparison and evaluation.
-License: MIT + file LICENSE
+License: GPL (>= 3)
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
