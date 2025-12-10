@@ -2,6 +2,7 @@
 % Please edit documentation in R/msmsr-package.R
 \docType{package}
 \name{msmsr-package}
+\alias{msmsr}
 \alias{msmsr-package}
 \title{msmsr: Materials for Model Selection and Model Simplification Course}
 \description{
@@ -55,7 +56,7 @@ throughout the course:
 }
 
 \author{
-\strong{Maintainer}: First Last \email{your.email@example.com}
+\strong{Maintainer}: Mark Andrews \email{mark.andrews@ntu.ac.uk}
 
 }
 \keyword{internal}

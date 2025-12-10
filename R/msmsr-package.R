@@ -42,6 +42,5 @@
 #'   \item Ames Housing: Residential property sales in Ames, Iowa (2006-2010)
 #' }
 #'
-#' @docType package
 #' @name msmsr-package
 NULL

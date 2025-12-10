@@ -24,7 +24,9 @@ Imports:
     MuMIn,
     glmnet,
     car,
-    performance
+    performance,
+    tidyr,
+    withr
 Suggests:
     knitr,
     rmarkdown,
